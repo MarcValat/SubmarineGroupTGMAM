@@ -17,7 +17,7 @@
 
 ## Prérequis
 - Unity **version 2022.3.27f1**.
-- Casque VR compatible (Oculus, HTC Vive, ou autre pris en charge par Unity XR).
+- Casque VR compatible (Meta Quest ou autre pris en charge par Unity XR).
 - Manettes VR pour interaction.
 
 ## Installation
